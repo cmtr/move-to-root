@@ -1,0 +1,15 @@
+{
+  "name": "move-to-root",
+  "version": "1.0.0",
+  "description": "Bulk Rename & Moval of Files",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "test"
+  },
+  "author": "Harald Blikø",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
